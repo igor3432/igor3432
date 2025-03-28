@@ -19,5 +19,4 @@
 ![Igor's GitHub stats](https://github.com/igor3432)  
 
 ## 📫 Entre em contato  
-[![LinkedIn](https://www.linkedin.com/in/igor-cardoso-071a67260/)  
-[![Gmail](igor34321021@gmail.com)  
+
